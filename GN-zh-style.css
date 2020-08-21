@@ -1,0 +1,11 @@
+::selection {
+  background: #26EE2C;
+}
+
+.left-pane {
+  border: 0;
+}
+
+a.block.created.pg6.neutrals-subtle-background {
+  display: none;
+}
